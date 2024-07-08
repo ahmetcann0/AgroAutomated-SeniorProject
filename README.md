@@ -1,2 +1,0 @@
-# AgroAutomatedApp
- Senior Project 
