@@ -1,0 +1,25 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/cloud_firestore-4.14.0/
+cloud_firestore_web=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.9.0/
+firebase_auth=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/firebase_auth-4.16.0/
+firebase_auth_web=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/firebase_auth_web-5.8.13/
+firebase_core=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/
+firebase_core_web=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/firebase_core_web-2.10.0/
+firebase_database=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/firebase_database-10.4.0/
+firebase_database_web=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/firebase_database_web-0.2.3+16/
+firebase_messaging=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/firebase_messaging-14.7.10/
+firebase_messaging_web=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/firebase_messaging_web-3.5.18/
+firebase_storage=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/firebase_storage-11.6.0/
+firebase_storage_web=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/firebase_storage_web-3.6.17/
+flutter_local_notifications=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/flutter_local_notifications-16.3.3/
+path_provider=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/path_provider-2.1.2/
+path_provider_android=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/path_provider_android-2.2.2/
+path_provider_foundation=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.2/
+path_provider_linux=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.1/
+shared_preferences=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/shared_preferences-2.2.2/
+shared_preferences_android=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/shared_preferences_android-2.2.1/
+shared_preferences_foundation=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.3.5/
+shared_preferences_linux=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.3.2/
+shared_preferences_web=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/shared_preferences_web-2.2.1/
+shared_preferences_windows=/Users/ahmetcanozturk/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.3.2/

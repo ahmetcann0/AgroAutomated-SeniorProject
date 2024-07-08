@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.agroautomated.app-mergeDebugResources-17:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/ahmetcanozturk/.gradle/caches/transforms-3/9157499cf91f80fef34861c24dca1f4c/transformed/media-1.1.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        }
+    ]
+}

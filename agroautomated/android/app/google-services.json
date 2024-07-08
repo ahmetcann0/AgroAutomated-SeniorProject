@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1091472604781",
+    "firebase_url": "https://agroautomated-8f55e-default-rtdb.firebaseio.com",
+    "project_id": "agroautomated-8f55e",
+    "storage_bucket": "agroautomated-8f55e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091472604781:android:efbc463172b287eba10964",
+        "android_client_info": {
+          "package_name": "com.example.agroautomated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb77Sf8ZljRAsoGgb_QaEOl_sKoLjaL7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091472604781:android:d0b1bdb9befca9d5a10964",
+        "android_client_info": {
+          "package_name": "com.example.agroautomated_main"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb77Sf8ZljRAsoGgb_QaEOl_sKoLjaL7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
